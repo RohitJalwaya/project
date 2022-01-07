@@ -21,7 +21,7 @@ const Login = () => {
         </div>
         <div class="text">
           <h3>Forgot Password?<Link to="/forgotpassword" label="Forgotpassword" >Reset Password</Link></h3>
-          <h3>New User?<Link to="/" label="Signup" >Signup</Link>
+          <h3>New User?<Link to="/" label="Signup." >Signup</Link>
           </h3>
 
         </div>
